@@ -5,4 +5,5 @@ public class gitclass {
 		
 	}
 edit something new 
+	added status line also now 
 }
